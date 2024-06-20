@@ -26,6 +26,7 @@ git commit -m "Second ver"
 git diff
 git status
 git log (to see the versions which we hv committed)
+git log --pretty=format:"%h - %au, - %ae - %s"
 cat calculator.sh
 cat calculator.sh
 
