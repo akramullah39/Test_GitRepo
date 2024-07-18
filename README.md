@@ -19,7 +19,7 @@ git commit -m "fist version"
 git status
 vim calculator.sh
 git status
-git diff (to see what is added)
+git diff (to see what is added/modified must before commiting)
 git add calculator.sh
 git status
 git commit -m "Second ver"
